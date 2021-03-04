@@ -19,6 +19,14 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+header {
+  background-color: #2ecc71;
+  color: #FFFFFF;
+  text-align: center;
+  height: 75px;
+  width: 100%;
+}
+
 .container {
   margin: 30px auto;
   width: 350px;
@@ -42,6 +50,7 @@ h4 {
 
 .inc-exp-container {
   background-color: #fff;
+  border-radius: 10px;
   box-shadow: var(--box-shadow);
   padding: 20px;
   display: flex;
@@ -80,7 +89,7 @@ label {
 input[type='text'],
 input[type='number'] {
   border: 1px solid #dedede;
-  border-radius: 2px;
+  border-radius: 5px;
   display: block;
   font-size: 16px;
   padding: 10px;
@@ -89,7 +98,7 @@ input[type='number'] {
 
 .btn {
   cursor: pointer;
-  background-color: #9c88ff;
+  background-color: #0366D6;
   box-shadow: var(--box-shadow);
   color: #fff;
   border: 0;
