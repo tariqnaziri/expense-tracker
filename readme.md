@@ -1,12 +1,12 @@
 ## Expense Tracker
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Financial management application
 
-## Project Specifications
+![Screenshot of Expense Tracker project](https://i.imgur.com/CNPGNYj.png)
 
-- Create UI for project
-- Display transaction items in DOM
-- Show balance, expense and income totals
-- Add new transation and reflect in total
-- Delete items from DOM
-- Persist to local storage
+**Link to project:** https://tariqnaziri.github.io/expense-tracker/
+
+## How it's made:
+
+**Tech used:** HTML, CSS, JavaScript
+
